@@ -167,7 +167,7 @@ int main() {
  4 5 6 7  
 ```  
   
-##  <a name="tie"></a>동률
+##  <a name="tie"></a>tie
  요소 선언에서 `tuple`을 만듭니다.  
   
 ```  
